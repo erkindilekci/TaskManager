@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add_task">Add Task</string>
+    <string name="save_task">Save Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="save_success_task">Saved successfully</string>
+    <string name="edit_success_task">Edited successfully</string>
+    <string name="delete_success_task">Deleted successfully</string>
+    <string name="title">Task Title</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="priority">Priority</string>
+    <string name="status">Task Status</string>
+    <string name="description">Description</string>
+    <string name="none">None</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="todo">Scheduled</string>
+    <string name="progress">In progress</string>
+    <string name="done">Completed</string>
+    <string name="enter_all_fields">Fill in all fields!</string>
+    <string name="enter_time_and_date_valid">Cannot schedule to the past!</string>
+    <string name="title_delete_task_dialog">Delete Task?</string>
+    <string name="description_delete_task_dialog">Do you really want to delete this task?</string>
+</resources>
